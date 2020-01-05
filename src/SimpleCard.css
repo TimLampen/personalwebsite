@@ -1,0 +1,29 @@
+.card {
+    maxWidth: 350px;
+    backgroundColor: #2b2b2b;
+    color: #9fffc6;
+    flex: 1;
+    border: 10px pink dot-dash;
+}
+
+.cardHolder{
+    display: flex;
+
+}
+
+.title {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.pos {
+    margin-bottom: 12px;
+}
+
+.button {
+    color: #ffffff;
+}
+
+.cardHolder {
+    display: flex;
+}
